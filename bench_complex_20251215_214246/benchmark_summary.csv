@@ -1,0 +1,27 @@
+Model,Avg Latency,Logic,Math,Coding,Total Score (/3)
+sushruth/solar-uncensored:latest,35.04s,PASS,FAIL,PASS,2
+jean-luc/cydonia:22b-v1.1-q5_K_M,65.73s,PASS,FAIL,PASS,2
+llama3:8b,6.02s,PASS,FAIL,PASS,2
+deepseek-coder:6.7b,6.04s,FAIL,FAIL,PASS,1
+llava:7b,7.82s,PASS,FAIL,PASS,2
+llama3.2-vision:11b,17.64s,PASS,PASS,PASS,3
+aqualaguna/gemma-3-27b-it-abliterated-GGUF:q2_k,81.44s,PASS,FAIL,PASS,2
+gpt-oss:20b,42.42s,FAIL,PASS,PASS,2
+granite3.3:latest,11.47s,PASS,FAIL,PASS,2
+dolphin-llama3:latest,7.18s,PASS,FAIL,PASS,2
+embeddinggemma:latest,0.00s,FAIL,FAIL,FAIL,0
+llama2:latest,5.22s,PASS,FAIL,PASS,2
+llama3:latest,6.18s,PASS,FAIL,PASS,2
+llama3.2:1b,2.12s,PASS,FAIL,PASS,2
+phi:latest,4.78s,PASS,FAIL,PASS,2
+starcoder2:3b,2.18s,FAIL,FAIL,PASS,1
+deepseek-coder:6.7b-instruct-q4_0,5.87s,FAIL,FAIL,PASS,1
+llava:latest,5.93s,PASS,FAIL,PASS,2
+gemma2:2b,4.67s,PASS,FAIL,PASS,2
+qwen2.5-coder:1.5b-base,1.48s,PASS,FAIL,PASS,2
+deepseek-r1:7b,5.40s,FAIL,FAIL,PASS,1
+qwen2.5-coder:32b-instruct-q4_K_M,110.64s,PASS,PASS,PASS,3
+llama3.1:8b,15.10s,PASS,PASS,PASS,3
+deepseek-r1:8b,4.20s,PASS,FAIL,FAIL,1
+deepseek-r1:32b,61.23s,PASS,PASS,PASS,3
+deepseek-r1:14b,7.54s,FAIL,FAIL,FAIL,0
